@@ -1,0 +1,12 @@
+.note-hide {
+  position: absolute;
+  color: #888;
+  background-color: #fafafa;
+  margin-left: 2%;
+  display: none;
+}
+
+.note-show {
+  @extend .note-hide;
+  display: block;
+}
