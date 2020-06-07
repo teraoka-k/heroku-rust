@@ -23,6 +23,7 @@ export default function mercury() {
       ></Note>
       <p>体重が50 kg なら、1日に 11.1 μg まで摂取できる</p>
       <Comment text="μgは100万分の1グラム."></Comment>
+      <Comment text="毎日11.1μg、100年食べ続けても、体内の水銀総量は、約966μgに収束して、それ以上蓄積しない。60日で半減するから。"></Comment>
       <h2>さかなは1日に何グラムまで食べられるの</h2>
       <Note
         text="厚生労働省がさかなに何グラムの水銀があるか調べてくれた"
